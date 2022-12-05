@@ -1,0 +1,9 @@
+body {
+    margin: 40px;
+    padding: 40px;
+    border-top: 5px dotted;
+    border-bottom: 5px dotted;
+    border-left: 5px dotted;
+    border-right: 5px dotted;
+    background: rgb(290, 120, 118);
+  }
